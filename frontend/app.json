@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Feedants Competition",
+    "slug": "feedants-competition",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "usesCleartextTraffic": true
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
